@@ -2,6 +2,7 @@
 
 This repository is a collection where I exhibit the Power BI dashboard images that I produced during my personal learning.
 
-![powerbi_dashboard_01](https://user-images.githubusercontent.com/44724944/231843806-517c47b5-3818-4bd1-a3f6-19efbf81dfc2.png)
+
+![222](https://user-images.githubusercontent.com/44724944/231844673-e24517b8-e1ca-4805-8fb7-8744ce0a9338.png)
 
 
