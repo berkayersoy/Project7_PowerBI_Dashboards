@@ -1,4 +1,4 @@
-# Project7_Tableau_Dashboard!
+# Project7_PowerBI_Dashboards
 
 This is a repository to showcase the images of Power BI dashboards that I created while studying.
 
